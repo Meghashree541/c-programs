@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     float a,b,c;
-    cout<<"enter 2 numbers:"<<endl;
+    cout<<"Enter two numbers:"<<endl;
     cin>>a>>b;
     c=a*b;
     cout<<"Product is:"<<c<<endl;
